@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PS_P10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">First Fragment to kill myself</string>
+    <string name="hello_blank_fragment2">Second Fragment to kill myself</string>
+    <string name="hello_blank_fragment3">Third Fragment to kill myself</string>
+</resources>
